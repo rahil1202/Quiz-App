@@ -12,6 +12,7 @@ Check out our live demo [here](https://quiz-app-rahil1202.netlify.app/) to start
 ![image](https://github.com/rahil1202/Quiz-App/assets/104057403/908c2c46-ca11-4fd2-a13a-fb78ac15e8e2)
 
 </br>
+
 ## Installation 💻
 
 1. Clone the repository: `git clone https://github.com/yourusername/quizzypedia.git`
